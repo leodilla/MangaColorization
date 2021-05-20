@@ -2,7 +2,7 @@
 Colorize blank-and-white mange with the network of chromaGan and nerual style transfer.
 
 ## ChromaGAN
-test the network with `ChromaGan.ipynb`, put the pretrained model into the path `MODEl/testmodel.h5`
+test the network with `ChromaGan.ipynb`, put the pretrained model(https://drive.google.com/file/d/16QGZSIecPZdktGAfeMUaypIFqgSwvfuT/view?usp=sharing) into the path `MODEl/testmodel.h5`
 
 train the network with `chromagan_train.py`, with the imagenet data and the JoJo manga dataset.
 
